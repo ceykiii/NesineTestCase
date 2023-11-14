@@ -1,7 +1,0 @@
-#00003 Kullanıcı Başarılı Bir Şekilde Login Olamadı Beklenmedik HataBrowsing context has been discarded
-Build info: version: '4.8.3', revision: 'e5e76298c3'
-System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [c2f79379-374b-437b-ac6e-e0e69152c6ea, findElement {using=id, value=hideShowBalance}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 109.0.1, moz:accessibilityChecks: false, moz:buildID: 20230127170202, moz:debuggerAddress: 127.0.0.1:10542, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 21.6.0, moz:processID: 46275, moz:profile: /var/folders/bd/xb3w3j5x1ng..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://127.0.0.1:10542/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c2f79379-374b-437b-ac6e-e0e69152c6ea

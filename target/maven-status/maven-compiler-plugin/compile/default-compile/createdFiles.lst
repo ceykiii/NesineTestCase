@@ -1,6 +1,0 @@
-stepDefination/Login.class
-service/RestClient.class
-dto/PopulerBet.class
-pageObjectModel/LoginModel.class
-runTest/RunTest.class
-config/WebDriverFactory.class

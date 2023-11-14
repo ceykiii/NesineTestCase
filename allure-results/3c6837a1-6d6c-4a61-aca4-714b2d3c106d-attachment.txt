@@ -1,1 +1,0 @@
-MarketNo değerleri eşleşmiyor expected:<19239> but was:<17398>

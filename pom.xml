@@ -11,8 +11,8 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <ornek.property.adı>Merhaba dünya!</ornek.property.adı>
-        <nesine.user>17885387164</nesine.user>
-        <nesine.password>45Dfn4h5f.</nesine.password>
+        <nesine.user>178853</nesine.user>
+        <nesine.password>45Dfn4</nesine.password>
     </properties>
     <dependencies>
         <dependency>
